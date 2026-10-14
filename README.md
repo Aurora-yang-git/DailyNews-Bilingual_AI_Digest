@@ -81,7 +81,7 @@ Every morning it fetches and scores the day's tech news, posts a bilingual (中�
 ### 1. Fork or clone this repo
 
 ```bash
-git clone https://github.com/Aurora-yang-git/workflow
+git clone https://github.com/Aurora-yang-git/DailyNews-Bilingual_AI_Digest
 ```
 
 The `Horizon/` AI framework directory is committed in the repo — no submodule setup needed.
